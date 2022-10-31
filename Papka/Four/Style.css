@@ -1,0 +1,29 @@
+html{
+	background-image:url(back.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	background-origin: padding-box;
+}
+#text{
+color:white;
+font-family: Arial,Times New Roman, Georgia;
+	font-weight: 900;
+	font-size: 2.1rem;	
+text-align:center;
+}
+#one{
+	width:60px;
+	height:60px;
+}
+#url{
+	font-family: Arial,Times New Roman, Georgia;
+	font-weight: 900;
+	font-size: 2.0rem;
+	text-decoration:none;
+	color:white;
+	display:flex;
+	justify-content:center;
+	margin-top:3%;
+	background-image:
+}

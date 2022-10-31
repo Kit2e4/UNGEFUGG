@@ -1,0 +1,53 @@
+html{
+	background-image:url(back.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	background-origin: padding-box;
+}
+#YUR{
+	color:white;
+	font-family: Arial,Times New Roman, Georgia;
+	font-weight: 900;
+	font-size: 2.3rem;
+	margin-left:65%;
+	margin-top:2%;
+}
+#im{
+width:450px;
+height:250px;
+float:right;
+margin-top:5%;
+margin-right:1%;
+border-radius:24px;
+box-shadow: 10px 5px 5px #1c1c1cb4;
+}
+#Text{
+	color:white;
+	font-family: Arial,Times New Roman, Georgia;
+	font-weight: 900;
+	font-size: 1.4rem;
+}
+#bottom1{
+
+	color:#9c9c9ce7;
+	font-family: Arial,Times New Roman, Georgia;
+	font-weight: 900;
+	font-size: 0.9rem;
+	margin-right:20%;
+}
+.url{
+	height:300px;
+	weight:300px;
+}
+#url{
+	font-family: Arial,Times New Roman, Georgia;
+	font-weight: 900;
+	font-size: 2.0rem;
+	text-decoration:none;
+	color:white;
+	display:flex;
+	justify-content:center;
+	margin-top:3%;
+	background-image:
+}
